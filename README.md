@@ -1,4 +1,4 @@
-# Interactive Parallel Computing with IPython
+#1 Interactive Parallel Computing with IPython
 
 IPython Parallel (`ipyparallel`) is a Python package and collection of CLI scripts for controlling clusters of IPython processes, built on the Jupyter protocol.
 
